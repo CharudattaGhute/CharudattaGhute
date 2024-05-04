@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charudatta Ghute</h1>
 <h3 align="center">MERN Enthusiast: Crafting Brilliance from India</h3>
 
-<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="CharudattaGhute" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="CharudattaGhute" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="CharudattaGhute" alt="charudattaghute" /></a> </p> 
+
 
 - 🌱 I’m currently learning **React.js,Node.js**
 
