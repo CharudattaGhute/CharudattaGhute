@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="CharudattaGhute" /> </p>
 
-
-
 - 🌱 I’m currently learning **React.js,Node.js**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
